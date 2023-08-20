@@ -6,7 +6,7 @@ _Бот бриджа bnb в opbnb и панд [DebugPilot](https://zkbridge.com/
 ```bash
 pip install -r requirements.txt
 ```
-внесите свои приватные ключи от кошельков в private_keys.txt
+внесите свои приватные ключи от кошельков с балансом tbnb в private_keys.txt
 ## Usage
 для запуска введите в консоль
 ```bash
