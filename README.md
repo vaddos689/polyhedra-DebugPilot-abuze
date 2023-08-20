@@ -12,6 +12,6 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-## Результат работы чекера баланса хранится а файле tbnb_balance.txt
-## Результат работы минтера панд хранится по пути core/wallets_with_debugpilot.txt
-## Результат работы бриджера храниться в файле wallets_with_opbnb_pandra.txt
+### Результат работы чекера баланса хранится а файле tbnb_balance.txt
+### Результат работы минтера панд хранится по пути core/wallets_with_debugpilot.txt
+### Результат работы бриджера храниться в файле wallets_with_opbnb_pandra.txt
